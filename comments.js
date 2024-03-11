@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // 1. Create a web server
 // 2. Handle GET requests to /comments
 // 3. Handle POST requests to /comments
