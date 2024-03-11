@@ -61,4 +61,5 @@ app.use((req, res) => {
 });
 
 app.listen(3000, () => {
-    console.log('Server started
+    console.log('Server started on http://localhost:3000');
+});
